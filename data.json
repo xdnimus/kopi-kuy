@@ -3,38 +3,60 @@
         {
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
+            "size": "1 Porsi",
+            "harga": "10.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_espresso.jpg",
             "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
+            "size": "1 Porsi",
+            "harga": "10.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
+            "size": "1 Porsi",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://assets.pikiran-rakyat.com/crop/0x87:700x715/x/photo/2022/06/22/4042202404.jpg",
+            "nama": "Sweet Arabica",
+            "size": "1 Porsi",
+            "harga": "10.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
+        
     ],
     "robusta": [
         {
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
+            "size": "1 Porsi",
+            "harga": "10.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
+            "size": "1 Porsi",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://img.kurio.network/IYmxbqmyTfs0cHrBndzmKCdqXeo=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/21/07/06/e0f921c0-97fe-48d6-84ba-60d131b605e9.jpe",
+            "nama": "Robusta Gula Aren",
+            "size": "1 Porsi",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://asset.kompas.com/crops/zPKBu9dQmOtq8gR0Lpo2lZItBVs=/0x227:800x760/750x500/data/photo/2021/07/27/60ffc032c141b.jpg",
+            "nama": "Robusta Gula Aren",
+            "size": "1 Porsi",
+            "harga": "10.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
         
@@ -53,7 +75,20 @@
             "size": "1 Porsi",
             "harga": "12.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d2d81ad0-f529-40ad-ae79-aec8f08bba4a_Go-Biz_20210818_153740.jpeg",
+            "nama": "Nasi Ayam Bakar",
+            "size": "1 Porsi",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/766756e5-e327-4036-a43b-5744d5b29953_Go-Biz_20210713_205315.jpeg",
+            "nama": "Nasi Ikan Lele Goreng",
+            "size": "1 Porsi",
+            "harga": "12.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
-        
     ]
 }
